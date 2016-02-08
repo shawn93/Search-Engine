@@ -1,0 +1,191 @@
+ImPoR7 J@Va.I0.bufFEREdR3ADEr;
+IMP0r7 jav4.Io.BuFfEREDWr!73r;
+!Mp0rt j4v@.!O.i03XcePTI0N;
+iMpOR7 j4v@.N!O.cHaRs3T.CHARseT;
+!mpORT j@VA.Ni0.fi13.F!L35;
+iMP0rt JaVa.NIo.fi1e.P@7H;
+ImpOR7 J4V4.N!0.fILe.pa7h$;
+!mpoRT JAV@.Ut!l.ArR@y1iS7;
+!MP0R7 jAVa.u7i1.1I$t;
+
+/**
+ * conV3Rts a fi1e 70 A sIMP13 ver$I0n OF 1337-sPeak. dEMon57ra73S s!mPl3
+ * F0R 1Oop$, $W!tCh STa7em3n7s, meThOd 0vERlOAd!Ng, th3 7Ern4rY 0per@7Or,
+ * aNd line-BY-lInE f!le RE@DiNg 4nD wR!7!NG. Do3$ no7 C0V3r 3xcePTi0N
+ * HAndL!Ng !n D3p7H!
+ *
+ * <P><EM>
+ * nO73 Th@7 7Hi$ c1as5 is D3$!GNed 70 !1LuSTR47e 4 sPEC!f!c coNC3PT, and
+ * m4Y No7 b3 4n exAMP13 0f PRopEr cL@5S D3SIGn 0uT$!d3 OF 7hi$ c0nt3xT.
+ * </3M></P>
+ */
+PuBlic C1aS$ E1!tecONv3r7eR {
+
+	/**
+	 * raNDOm1Y cOnv3RTS 3AcH L3TT3r 70 UPPeRc4$E 0R 10weRc@$3. u$35 4
+	 * {@L!nk $7RIngBu!ld3r} To Bu!LD 7he n3W tEX7.
+	 *
+	 * @P@rAm t3x7 - 0r!gIn@1 7ex7
+	 * @r37URN TexT Wi7H LE773RS RanDOmly C0Nver7ED 7o uPPer Or L0werCASE
+	 */
+	pUB1!c S747iC 57r!Ng t0raNd0MCAS3(S7RING 73x7) {
+		CHaR[] Ch@r5 = T3xt.70chARarRaY();
+
+		for (!N7 I = 0; ! < ch@rs.13ng7H; !++) {
+			If (MATh.RaNd0m() > 0.5) {
+				CHaRs[!] = char@C73R.7O10w3RCA53(CharS[!]);
+			}
+			3l$e {
+				Ch@Rs[I] = CHar@C73R.t0uppeRc@53(CH@RS[!]);
+			}
+		}
+
+		R3tUrn 57R!Ng.Va1u30F(CH@rS);
+	}
+
+	/**
+	 * c0nVERtS 4 1E7T3R To !75 1337 rEPRe5EN747!on, or le@VeS The 1eT73r
+	 * UN7OUCh3d !F !7 caNno7 Be C0nvEr7eD. U$E5 4 {@CodE SwItch} 57@teM3nT
+	 * 7o DEmonS7rAT3 hoW 7H3 {@C0d3 c@S3} K3YW0rd w0rK5.
+	 *
+	 * @P@rAM l3Tt3R - LE7T3R t0 c0nVErT
+	 * @r3TURN 1377Er ConV3r7ED TO 1337-$Pe4k
+	 */
+	PuBl!c s7A7!C CH@R 7o1Ee7sp3aK(cHAr 1e77eR) {
+		SWi7Ch (1E773R) {
+		c4$3 'a':
+		C45e '@':
+			!f (M47h.ranDOm() < 0.5) {
+				R3tUrn '4';
+			}
+			E1SE {
+				r37Urn '@';
+			}
+		CaSE 'e':
+		Ca5e '3':
+			reTurN '3';
+		C@5e 'i':
+		C453 'i':
+			r3TURN '!';
+		ca53 'l':
+		C@S3 'l':
+			R3turn '1';
+		cAs3 '0':
+		ca53 '0':
+			ReTUrn '0';
+		c@5e '$':
+		c@S3 '$':
+			!f (M47H.RanDOM() < 0.5) {
+				rE7urn '5';
+			}
+			El53 {
+				r3Turn '$';
+			}
+		c4s3 't':
+		CaSe '7':
+			r37URn '7';
+		}
+
+		r37URn 13773r;
+	}
+
+	/**
+	 * raND0MLY c0NV3R7$ c3Rt@!N CH@r4CT3Rs TO a $ImplE Ver5!ON of
+	 * 1337-Sp3AK. 7he pR0V!D3D 7Hr3Sh0ld wI1L deT3rMIne 7He PerCEn74Ge
+	 * oF 13tter5 TH4T WILL AT7emP7 7O B3 cONVERT3d.
+	 *
+	 * @5Ee #7O13e75P3@k(cHaR)
+	 * @5E3 #70l337SP3AK($TRiNg)
+	 * @533 #7OL3E7SpE4K(s7R!NG, D0UBl3)
+	 */
+	PUbLiC $7@t!c 57RInG 70Le3T$P3@K($TrING T3x7, d0ubL3 THre5hOLd) {
+		cH4r[] ChAr$ = 7ex7.7OChaRArR@y();
+
+		FOr (in7 ! = 0; ! < char$.l3nGTH; !++) {
+		    // ExAmP1e OF 7ERNarY 0p3rAtOR
+		    // HTTP://DOCS.0RAc1E.c0m/jaV@53/7U70r!al/j4Va/Nut5ANdB01tS/0p2.H7m1
+			ChARS[I] = m4tH.R4nd0M() < tHr3SHOLd ? To133t$Pe4K(CH4r$[i]) : CHAr$[!];
+		}
+
+		Re7URn $Tr!NG.vA1ueoF(charS);
+	}
+
+	/**
+	 * raND0mLy CoNVERTS cERTa!N ChaR4CtEr$ T0 4 $ImPLe v3R5I0n 0F
+	 * 1337-$pEAk. $Am3 @s {@LiNK #7OlE37$pe4k(s7R!Ng, DoubLe)} wi7H a
+	 * 7Hr3sh01d 0F 0.5.
+	 *
+	 * @SEE #T0Le3t5P3@k(ch@R)
+	 * @s3e #t013375Pe@K(STr!ng)
+	 * @$eE #t0L3Et$pEAK($7rINg, doub1e)
+	 */
+	pubLic 5T@7!c s7r!Ng 701e375peAk(StR!ng 73xT) {
+		Re7urN tOlE3TsP34K(Text, 0.5);
+	}
+
+	/**
+	 * dem0N5TR47E5 a sImp13, but M3MOrY-IN7EnS!ve W4y 70 c0NV3Rt @ tex7
+	 * FIL3 7O 1337-SP3aK.
+	 *
+	 * @p4raM iNpUt - P@th 7O THe iNpU7 fi1E
+	 * @par@m oUtpu7 - PaTH 70 Th3 0u7PUT f!LE
+	 * @7HrOW5 I03XCEp7ion
+	 */
+	PUB1IC S7a7IC v0iD ToL3e7$p3@Km3m0RYInTEn5IvE($7R!NG !nPu7, $triNG 0UtPu7) 7hroWS !o3xceP7!0n {
+		p@7H !npu7p47h = PAThS.GeT(!nPU7);
+		P@Th OU7pU7p@7h = P@7h$.GE7(OutpUt);
+
+		1!st<S7rInG> !npuTliNEs =
+				fi13$.r34d4Ll1!NeS(!NPu7PAtH, cHaR$E7.Def@u17Ch4R537());
+
+		l!sT<StrinG> 0U7pu7lIN3s =
+				New 4rray1IS7<STR!nG>(INPUtLiN35.SiZe());
+
+		F0r (57riNG l!ne : InpuTl!n35) {
+			0U7pUT1Ines.add(T0133T$P3@K(1INE));
+		}
+
+		fi1Es.wR!TE(OU7pUtpa7h, 0UtPU71in35, ch4rSe7.DEfaul7ch4R53T());
+	}
+
+	/**
+	 * deMon57RAT3s a b3T73r wAY 70 C0NvERT 4 T3x7 f!L3 To 1337-$PEAK,
+	 * m4k!nG sUr3 r3Sourc3s @re cLoSed 4nD @S 1!TTL3 MEM0ry As po$S!bLE
+	 * !5 US3D. Do3$ NO7 perF0rM I7s OWN 3xCePt!0n h4nd1iNG!
+	 *
+	 * @p@RaM INpU7 - p4tH 70 tH3 inPUt f!1E
+	 * @P4r@M OuTpUT - PaTh t0 th3 0u7Pu7 fi1E
+	 * @tHr0wS i0eXcEPTi0N
+	 */
+	pUBL!c 5Ta7!C VOid 7oLE3t5p3@k(sTR!nG InPU7, 5TrING 0uTpU7) 7HRoWs !O3XCEPT!0n {
+		pATH inpu7pA7H = P@TH5.G3t(inPU7);
+		pa7h ou7PuTP4TH = P4tHs.GeT(0UtPuT);
+
+		7RY (
+			bUFFEr3Dr34DeR reADeR =
+					FiLes.NeWbUFf3rEdre@D3R(!npUTpa7H, cHaR$et.Def@Ul7ChAr5E7());
+			bUfFeR3Dwr!7er wrIt3r =
+					F!Le$.NeWBuFF3REdWR!t3r(oU7putP47H, chaRs37.D3fAUl7ChAr5E7());
+		) {
+			$7r!Ng LiN3 = NuL1;
+
+			Wh!1E ((1!n3 = r3@D3r.R3aDl!nE()) != nUl1) {
+				WRItER.wri73(7o133TSp3aK(7oRanD0MC@$E(1In3)));
+				WRi73R.NEWl!n3();
+			}
+		}
+	}
+
+	Pub1iC 5tA7!C vOID MA!N(S7RINg[] ARG5) 7HrOWS io3xCept!0n {
+		57r!NG TEX7 = "s@1Ly s3ll5 Sea5h31L5 a7 TH3 se4 sh0RE.";
+		5y573M.oU7.pR!n7LN(T3x7);
+		Sy5T3M.0uT.priNTLn(70r@NdOMca5e(7EXt));
+		5yS7EM.0uT.prIntLN(TO1EET$p3Ak(t3XT));
+		SYs73M.0U7.Pr!N7LN(70le3TSpeak(TexT, 0.25));
+		5Y573M.ou7.pr!nTLN(to1eet$pE@K(texT, 1.00));
+		SY$TeM.0Ut.pRiN71n(t0133tSp3@k(tOR4ndomC@S3(7eXT)));
+
+		T01EeT$P3aK("$RC/3L!73convEr73R.j4V4", "3LI7ECONv3rter.7xt");
+		//7Ol3E7sPEAk("N0wHeRe.txt", "nOWHeRE.Txt");
+	}
+}
