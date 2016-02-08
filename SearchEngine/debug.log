@@ -1,0 +1,38 @@
+20:12:38:380 [debug] ThreadSafeInvertedIndexBuilder.java:43 Thread-23: IndexMinion created for input/simple/a/b/c/d/subdir.txt
+20:12:38:381 [debug] ThreadSafeInvertedIndexBuilder.java:75 Thread-23: Pending is now 1
+20:12:38:381 [debug] ThreadSafeInvertedIndexBuilder.java:43 Thread-23: IndexMinion created for input/simple/capital_extension.TXT
+20:12:38:381 [debug] ThreadSafeInvertedIndexBuilder.java:75 Thread-23: Pending is now 2
+20:12:38:382 [debug] ThreadSafeInvertedIndexBuilder.java:43 Thread-23: IndexMinion created for input/simple/capitals.txt
+20:12:38:382 [debug] ThreadSafeInvertedIndexBuilder.java:75 Thread-23: Pending is now 3
+20:12:38:382 [debug] ThreadSafeInvertedIndexBuilder.java:43 Thread-23: IndexMinion created for input/simple/digits.txt
+20:12:38:382 [debug] ThreadSafeInvertedIndexBuilder.java:75 Thread-23: Pending is now 4
+20:12:38:382 [debug] ThreadSafeInvertedIndexBuilder.java:43 Thread-23: IndexMinion created for input/simple/empty.txt
+20:12:38:382 [debug] ThreadSafeInvertedIndexBuilder.java:75 Thread-23: Pending is now 5
+20:12:38:382 [debug] ThreadSafeInvertedIndexBuilder.java:43 Thread-23: IndexMinion created for input/simple/position.txt
+20:12:38:383 [debug] ThreadSafeInvertedIndexBuilder.java:75 Thread-23: Pending is now 6
+20:12:38:383 [debug] ThreadSafeInvertedIndexBuilder.java:43 Thread-23: IndexMinion created for input/simple/symbols.txt
+20:12:38:383 [debug] ThreadSafeInvertedIndexBuilder.java:75 Thread-23: Pending is now 7
+20:12:38:383 [debug] ThreadSafeInvertedIndexBuilder.java:99 Thread-23: Waiting until finished
+20:12:38:383 [debug] ThreadSafeInvertedIndexBuilder.java:84 Thread-26: Pending is now 6
+20:12:38:383 [debug] ThreadSafeInvertedIndexBuilder.java:84 Thread-25: Pending is now 5
+20:12:38:383 [debug] ThreadSafeInvertedIndexBuilder.java:84 Thread-26: Pending is now 4
+20:12:38:384 [debug] ThreadSafeInvertedIndexBuilder.java:84 Thread-27: Pending is now 3
+20:12:38:384 [debug] ThreadSafeInvertedIndexBuilder.java:84 Thread-28: Pending is now 2
+20:12:38:384 [debug] ThreadSafeInvertedIndexBuilder.java:84 Thread-24: Pending is now 1
+20:12:38:384 [debug] ThreadSafeInvertedIndexBuilder.java:84 Thread-25: Pending is now 0
+20:12:38:385 [debug] ThreadSafeSearchBuilder.java:88 Thread-23: SearchMinion created for two
+20:12:38:385 [debug] ThreadSafeSearchBuilder.java:115 Thread-23: Pending is now 1
+20:12:38:385 [debug] ThreadSafeSearchBuilder.java:88 Thread-23: SearchMinion created for chickadee
+20:12:38:385 [debug] ThreadSafeSearchBuilder.java:115 Thread-23: Pending is now 2
+20:12:38:386 [debug] ThreadSafeSearchBuilder.java:88 Thread-23: SearchMinion created for aa
+20:12:38:386 [debug] ThreadSafeSearchBuilder.java:115 Thread-23: Pending is now 3
+20:12:38:386 [debug] ThreadSafeSearchBuilder.java:88 Thread-23: SearchMinion created for t
+20:12:38:386 [debug] ThreadSafeSearchBuilder.java:115 Thread-23: Pending is now 4
+20:12:38:386 [debug] ThreadSafeSearchBuilder.java:88 Thread-23: SearchMinion created for elephant antelope
+20:12:38:386 [debug] ThreadSafeSearchBuilder.java:115 Thread-23: Pending is now 5
+20:12:38:386 [debug] ThreadSafeSearchBuilder.java:139 Thread-23: Waiting until finished
+20:12:38:387 [debug] ThreadSafeSearchBuilder.java:124 Thread-26: Pending is now 4
+20:12:38:387 [debug] ThreadSafeSearchBuilder.java:124 Thread-27: Pending is now 3
+20:12:38:387 [debug] ThreadSafeSearchBuilder.java:124 Thread-25: Pending is now 2
+20:12:38:387 [debug] ThreadSafeSearchBuilder.java:124 Thread-28: Pending is now 1
+20:12:38:387 [debug] ThreadSafeSearchBuilder.java:124 Thread-24: Pending is now 0
